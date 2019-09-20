@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+.title{
+    background: chartreuse;
+    padding: 1em;
+}
+.div{
+    width: 50%;
+    border: 1px inset hotpink;
+    margin: auto;s
+}
